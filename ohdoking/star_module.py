@@ -22,3 +22,8 @@ def makeStar(count, method):
 	elif method == MOUNTAIN:
 		for i in range(1,count,2):
 			print blank*(((count-i)-1)/2), star*i
+
+def test():
+	return (1,"test",3)
+
+
