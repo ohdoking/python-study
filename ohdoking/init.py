@@ -1,9 +1,5 @@
-star = "*"
+import star_module
 
-for i in range(5, 0, -1):
-	print star*i
+star_module.makeStar(7, star_module.MOUNTAIN)
 
-# same the above method
-#for j in reversed(range(5)):
-#	print star*j
 
