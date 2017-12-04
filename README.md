@@ -19,4 +19,5 @@
 ## 도움 받은 사이트
 - https://wikidocs.net/56
 - https://dojang.io
-
+- https://wikidocs.net/book/1
+- http://pythonstudy.xyz/python/basics
